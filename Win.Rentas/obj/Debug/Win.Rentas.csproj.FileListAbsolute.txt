@@ -1,0 +1,28 @@
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\Win.Rentas\bin\Debug\Win.Rentas.exe.config
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\Win.Rentas\bin\Debug\Win.Rentas.exe
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\Win.Rentas\bin\Debug\Win.Rentas.pdb
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\Win.Rentas\bin\Debug\BL.Rentas.dll
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\Win.Rentas\bin\Debug\EntityFramework.dll
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\Win.Rentas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\Win.Rentas\bin\Debug\BL.Rentas.pdb
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\Win.Rentas\bin\Debug\EntityFramework.xml
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\Win.Rentas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\Win.Rentas\obj\Debug\Win.Rentas.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormClientes.resources
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormLogin.resources
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormMenu.resources
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormProductos.resources
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormRentas.resources
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\Win.Rentas\obj\Debug\Win.Rentas.Properties.Resources.resources
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\Win.Rentas\obj\Debug\Win.Rentas.csproj.GenerateResource.Cache
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\Win.Rentas\obj\Debug\Win.Rentas.exe
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\Win.Rentas\obj\Debug\Win.Rentas.pdb
+C:\Users\Bryan\Desktop\TAREA_3\tarea-2\Rentas\Win.Rentas\bin\Debug\Win.Rentas.exe.config
+C:\Users\Bryan\Desktop\TAREA_3\tarea-2\Rentas\Win.Rentas\obj\Debug\Win.Rentas.exe
+C:\Users\Bryan\Desktop\TAREA_3\tarea-2\Rentas\Win.Rentas\obj\Debug\Win.Rentas.pdb
+C:\Users\Bryan\Desktop\TAREA_3\tarea_3\Rentas\Win.Rentas\bin\Debug\Win.Rentas.exe.config
+C:\Users\Bryan\Desktop\TAREA_3\tarea_3\Rentas\Win.Rentas\obj\Debug\Win.Rentas.exe
+C:\Users\Bryan\Desktop\TAREA_3\tarea_3\Rentas\Win.Rentas\obj\Debug\Win.Rentas.pdb
+C:\Users\Bryan\Desktop\GitTarea3\Tarea-3\Win.Rentas\bin\Debug\Win.Rentas.exe.config
+C:\Users\Bryan\Desktop\GitTarea3\Tarea-3\Win.Rentas\obj\Debug\Win.Rentas.exe
+C:\Users\Bryan\Desktop\GitTarea3\Tarea-3\Win.Rentas\obj\Debug\Win.Rentas.pdb

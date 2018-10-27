@@ -1,0 +1,10 @@
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\BL.Rentas\bin\Debug\BL.Rentas.dll.config
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\BL.Rentas\bin\Debug\BL.Rentas.dll
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\BL.Rentas\bin\Debug\BL.Rentas.pdb
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\BL.Rentas\bin\Debug\EntityFramework.dll
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\BL.Rentas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\BL.Rentas\bin\Debug\EntityFramework.xml
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\BL.Rentas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\BL.Rentas\obj\Debug\BL.Rentas.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\BL.Rentas\obj\Debug\BL.Rentas.dll
+C:\Users\Bryan\Desktop\tarea 2 rony\tarea-2\Rentas\BL.Rentas\obj\Debug\BL.Rentas.pdb
